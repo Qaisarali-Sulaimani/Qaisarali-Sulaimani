@@ -9,7 +9,7 @@
 
 - ⚡ I have a keen interest in Data Structures and Algorithms.
 - 👨‍💻 I’m currently exploring Flutter and Backend side with Nodejs.
-- 朱'&nbsp; I like to spend my free time watching Anime.
+- 朱'&nbsp; I like to spend my free time watching Anime and Shows. Have watched 4500+ episodes covering over 140+ shows.
 
 ---
 
