@@ -24,6 +24,7 @@
 <a href="https://www.leetcode.com/QsR11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="QsR11" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/QsR11?lang=en" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="QsR11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/qsr11" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/GeeksforGeeks.png" alt="qsr11" height="30" width="40" /></a>  
+<a href="https://tvtime.com/r/1ZU5Q" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/wWoF0UMsnbJfBs2GahiNr3vpJjxAzfzc_GbgZrQWjNGRFFOY4z1Ky2-J0I1km-m1HQ=w220-rw" alt="qsr11" height="30" width="40" /></a>  
 </p>
 
 
