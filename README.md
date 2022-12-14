@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/QUKqSLmE7vmZP2PkZk/giphy.gif" />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Enthusiast%20Competitive%20Programmer;Full-Stack%20Developer;Serious%20Anime%20Binger&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF.&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Enthusiast+Competitive+Programmer;IT+Engineering+Student;Anime+Binger&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF.&vCenter=true&size=22"></a>
 </p>
 
 ## 💫About Me
