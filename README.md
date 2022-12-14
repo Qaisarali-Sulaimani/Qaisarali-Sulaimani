@@ -41,7 +41,7 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/QsR11?theme=light&font=Karma&ext=contest" />
 </p>
  
-# 📊GitHub Stats :
+## 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Qaisarali-Sulaimani&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Qaisarali-Sulaimani&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaisarali-Sulaimani&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -49,7 +49,17 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌟Badge Collection
 [![@qaisaralisulaimani's Holopin board](https://holopin.me/qaisaralisulaimani)](https://holopin.io/@qaisaralisulaimani)
+
+## Achievements
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Qaisarali-Sulaimani&theme=darkhub&no-frame=true&column=7">
+</a>
  
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
  <a target="_blank" href="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks"></a>
+ 
+## :zany_face: Joke of the day
+<a href="https://github.com/ABSphreak/readme-jokes">
+   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</a>
