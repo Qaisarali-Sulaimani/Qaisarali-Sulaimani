@@ -8,7 +8,7 @@
 ## 💫About Me
 
 - ⚡ I have a keen interest in Data Structures and Algorithms.
-- 👨‍💻 I’m currently exploring Flutter and Backend side with Nodejs.
+- 👨‍💻 I’m currently exploring React Native.
 - 朱'&nbsp; I like to spend my free time watching Anime and Shows. Have watched 4500+ episodes covering over 140+ shows.
 
 ---
